@@ -8,3 +8,4 @@ dependencies:
   - notebook>5.2
   - geopandas
   - matplotlib
+  - fiona
